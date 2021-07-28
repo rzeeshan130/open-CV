@@ -1,3 +1,6 @@
+#Zeeshan Khalid 2k18/ele/130
+#Hanzalah Hussain 2k18/ele/38
+
 import cv2
 from matplotlib import pyplot as plt
 
